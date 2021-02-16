@@ -14,4 +14,4 @@ ass1 anedi repository name
 readme.md anedi filename
 main anedi oka branch or master branch which contains initial file data
 next andulo changes cheyalannappudu we have the facility called BRANCHING ikkada inkoka branch create chesi master branch lo file ni teskuni edit chesi save cheskovachu..file name maarchalsina paniledu.
-main and repocreate-edits aedi branches
+main and repocreate-edits anedi branches
